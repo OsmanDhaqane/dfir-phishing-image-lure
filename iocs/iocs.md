@@ -1,5 +1,8 @@
 # Indicators of Compromise (IOCs)
 
+Collected from a single phishing campaign — indicators may rotate over time.
+All indicators are defanged.
+
 All indicators are defanged.
 
 ## Domains
