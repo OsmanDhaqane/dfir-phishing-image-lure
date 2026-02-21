@@ -1,0 +1,13 @@
+Evidence collected:
+- email_original.eml  (SHA256: <paste hash here>) — saved from Thunderbird via File->Save As
+- message.txt  — raw message source (View->Message Source)
+- screenshot.png — screenshot of rendered phishing image (user view)
+- case_image_01.png — remote image downloaded from i.imgur.com
+- case_image_02.png — remote image downloaded from i.imgur.com
+- urls.txt — extracted URLs (contains punycode domain)
+
+Collection notes:
+- All files copied to forensic working directory: /forensics/phishing/
+- Original .eml and message source preserved with read-only permission.
+- No attachments were opened. Attachment was submitted to sandbox for analysis (if allowed).
+- Timestamps preserved as captured from mail headers (Date: Wed, 11 Feb 2026 09:18:44 +0100).
