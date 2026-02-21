@@ -36,6 +36,8 @@ The goal of the analysis was to determine legitimacy, trace the redirect chain, 
 - IOC extraction
 
 ## Report
-- [Link the PDF](https://github.com/OsmanDhaqane/dfir-phishing-image-lure/blob/main/report/phishingcase1.pdf)
+- [Read the full investigation (PDF)](https://github.com/OsmanDhaqane/dfir-phishing-image-lure/blob/main/report/phishingcase1.pdf)
+
+*This case is based on a real phishing email received and safely analysed in an isolated environment. All indicators are defanged.*
 
 
